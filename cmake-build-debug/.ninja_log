@@ -1,0 +1,5 @@
+# ninja log v5
+3	422	6922903769383492	CMakeFiles/SortAndFind.dir/src/main/main.cpp.obj	d4bc2ce1708b4b4
+4	448	6922904627200501	CMakeFiles/SortAndFind.dir/src/Emulator/Controller.cpp.obj	a5e6a879969d7f9b
+7	822	6922902184178723	CMakeFiles/SortAndFind.dir/src/Double_Linked_List/Lists.cpp.obj	6b884fa655090601
+448	571	6922904628380485	SortAndFind.exe	3858b64bcec165f1
